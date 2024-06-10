@@ -1,0 +1,126 @@
+{
+    "apim-request-id": "b1be4edb-535c-4605-bf1d-27a77e0d0bce",
+    "content-length": "858",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "metadata": {
+      "width": 558,
+      "height": 430
+    },
+    "objectsResult": {
+      "values": [
+        {
+          "boundingBox": {
+            "x": 6,
+            "y": 390,
+            "w": 49,
+            "h": 40
+          },
+          "tags": [
+            {
+              "name": "footwear",
+              "confidence": 0.525
+            }
+          ]
+        },
+        {
+          "boundingBox": {
+            "x": 104,
+            "y": 104,
+            "w": 128,
+            "h": 324
+          },
+          "tags": [
+            {
+              "name": "person",
+              "confidence": 0.765
+            }
+          ]
+        },
+        {
+          "boundingBox": {
+            "x": 174,
+            "y": 235,
+            "w": 114,
+            "h": 75
+          },
+          "tags": [
+            {
+              "name": "Laptop",
+              "confidence": 0.523
+            }
+          ]
+        },
+        {
+          "boundingBox": {
+            "x": 351,
+            "y": 331,
+            "w": 154,
+            "h": 99
+          },
+          "tags": [
+            {
+              "name": "seating",
+              "confidence": 0.533
+            }
+          ]
+        },
+        {
+          "boundingBox": {
+            "x": 0,
+            "y": 102,
+            "w": 175,
+            "h": 328
+          },
+          "tags": [
+            {
+              "name": "person",
+              "confidence": 0.856
+            }
+          ]
+        },
+        {
+          "boundingBox": {
+            "x": 222,
+            "y": 99,
+            "w": 200,
+            "h": 323
+          },
+          "tags": [
+            {
+              "name": "person",
+              "confidence": 0.723
+            }
+          ]
+        },
+        {
+          "boundingBox": {
+            "x": 155,
+            "y": 190,
+            "w": 387,
+            "h": 220
+          },
+          "tags": [
+            {
+              "name": "seating",
+              "confidence": 0.678
+            }
+          ]
+        },
+        {
+          "boundingBox": {
+            "x": 111,
+            "y": 275,
+            "w": 264,
+            "h": 152
+          },
+          "tags": [
+            {
+              "name": "table",
+              "confidence": 0.613
+            }
+          ]
+        }
+      ]
+    }
+  }
