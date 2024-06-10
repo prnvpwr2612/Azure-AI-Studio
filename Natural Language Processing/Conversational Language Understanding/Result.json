@@ -1,0 +1,30 @@
+{
+    "query": "switch the light on",
+    "prediction": {
+        "topIntent": "switch_on",
+        "projectKind": "Conversation",
+        "intents": [
+            {
+                "category": "switch_on",
+                "confidenceScore": 0.95287484
+            },
+            {
+                "category": "switch_off",
+                "confidenceScore": 0.7203066
+            },
+            {
+                "category": "None",
+                "confidenceScore": 0
+            }
+        ],
+        "entities": [
+            {
+                "category": "device",
+                "text": "light",
+                "offset": 11,
+                "length": 5,
+                "confidenceScore": 1
+            }
+        ]
+    }
+}
