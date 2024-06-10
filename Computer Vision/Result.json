@@ -1,0 +1,114 @@
+{
+    "apim-request-id": "668aa89e-5512-4c2f-b7e0-3429b5e8118a",
+    "content-length": "1286",
+    "content-type": "application/json; charset=utf-8",
+    "modelVersion": "2023-10-01",
+    "denseCaptionsResult": {
+      "values": [
+        {
+          "text": "a copper container with a pipe",
+          "confidence": 0.6911238431930542,
+          "boundingBox": {
+            "x": 0,
+            "y": 0,
+            "w": 960,
+            "h": 1280
+          }
+        },
+        {
+          "text": "a copper container with a blue strap",
+          "confidence": 0.7633824348449707,
+          "boundingBox": {
+            "x": 249,
+            "y": 355,
+            "w": 532,
+            "h": 699
+          }
+        },
+        {
+          "text": "a close up of a metal object",
+          "confidence": 0.7292454838752747,
+          "boundingBox": {
+            "x": 404,
+            "y": 141,
+            "w": 187,
+            "h": 236
+          }
+        },
+        {
+          "text": "a shelf with plastic bags",
+          "confidence": 0.6877753734588623,
+          "boundingBox": {
+            "x": 0,
+            "y": 0,
+            "w": 283,
+            "h": 771
+          }
+        },
+        {
+          "text": "a copper container with a blue strap",
+          "confidence": 0.7027780413627625,
+          "boundingBox": {
+            "x": 179,
+            "y": 26,
+            "w": 760,
+            "h": 811
+          }
+        },
+        {
+          "text": "a pile of plastic bags",
+          "confidence": 0.7325167655944824,
+          "boundingBox": {
+            "x": 2,
+            "y": 326,
+            "w": 251,
+            "h": 412
+          }
+        },
+        {
+          "text": "a close-up of a white bag",
+          "confidence": 0.7613093256950378,
+          "boundingBox": {
+            "x": 194,
+            "y": 3,
+            "w": 756,
+            "h": 148
+          }
+        },
+        {
+          "text": "a close up of a handle",
+          "confidence": 0.7524039149284363,
+          "boundingBox": {
+            "x": 729,
+            "y": 569,
+            "w": 84,
+            "h": 78
+          }
+        },
+        {
+          "text": "a close up of a metal object",
+          "confidence": 0.7289311289787292,
+          "boundingBox": {
+            "x": 356,
+            "y": 341,
+            "w": 150,
+            "h": 173
+          }
+        },
+        {
+          "text": "a close up of a metal pole",
+          "confidence": 0.7669503092765808,
+          "boundingBox": {
+            "x": 425,
+            "y": 382,
+            "w": 58,
+            "h": 133
+          }
+        }
+      ]
+    },
+    "metadata": {
+      "width": 960,
+      "height": 1280
+    }
+  }
