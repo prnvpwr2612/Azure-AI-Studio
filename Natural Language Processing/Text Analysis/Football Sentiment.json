@@ -1,0 +1,628 @@
+{
+    "documents": [
+        {
+            "id": "id__1155",
+            "sentiment": "mixed",
+            "confidenceScores": {
+                "positive": 0.38,
+                "neutral": 0.3,
+                "negative": 0.32
+            },
+            "sentences": [
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.17,
+                        "neutral": 0.53,
+                        "negative": 0.3
+                    },
+                    "offset": 0,
+                    "length": 309,
+                    "text": "William Saliba Saliba isn't Didier Deschamps' preferred centre-back option / Catherine Steenkeste/GettyImage William Saliba is a tough one to assess because he's already widely regarded as one of the continent's finest centre-backs, but the Arsenal man is unlikely to feature heavily at Euro 2024 for France. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.11,
+                        "negative": 0.87
+                    },
+                    "offset": 309,
+                    "length": 251,
+                    "text": "Didier Deschamps prefers the alternatives and, although Saliba hasn't shown his best for the national team, his lack of minutes in Germany this summer will appear incredibly harsh given the form he's displayed in north London over the past two years. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 365,
+                            "length": 6,
+                            "text": "Saliba",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/1/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0,
+                                "negative": 1
+                            },
+                            "offset": 389,
+                            "length": 4,
+                            "text": "best",
+                            "isNegated": true
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.32,
+                        "neutral": 0.67,
+                        "negative": 0.02
+                    },
+                    "offset": 560,
+                    "length": 163,
+                    "text": "Saliba combines the traditional art of defending with its more glamorous modern twist and is poised to be recognised as one of the world's best for years to come. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 560,
+                            "length": 6,
+                            "text": "Saliba",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/2/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 699,
+                            "length": 4,
+                            "text": "best",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.24,
+                        "neutral": 0.58,
+                        "negative": 0.17
+                    },
+                    "offset": 723,
+                    "length": 227,
+                    "text": "4. John Stones John Stones Stones can do it all from centre-back / Marc Atkins/GettyImages John Stones was arguably the most valuable defender in the world a year ago, but his 2023/24 campaign was stop-start, to say the least. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 857,
+                            "length": 8,
+                            "text": "defender",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/3/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 814,
+                            "length": 11,
+                            "text": "John Stones",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/3/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 848,
+                            "length": 8,
+                            "text": "valuable",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.21,
+                        "negative": 0.76
+                    },
+                    "offset": 950,
+                    "length": 204,
+                    "text": "The Englishman had shone in a centre-back-cum-holding midfield position for a treble-winning City side and, while there was no major drop-off last season, the novelty of his unique function had worn off. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.21,
+                        "negative": 0.77
+                    },
+                    "offset": 1154,
+                    "length": 100,
+                    "text": "Still, Stones drifted away from the error-prone defender into one of the sternest on the continent. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.54,
+                        "neutral": 0.4,
+                        "negative": 0.06
+                    },
+                    "offset": 1254,
+                    "length": 44,
+                    "text": "His talent in possession is unmatched, too. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 1258,
+                            "length": 6,
+                            "text": "talent",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/6/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 0.99,
+                                "negative": 0.01
+                            },
+                            "offset": 1282,
+                            "length": 9,
+                            "text": "unmatched",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.06,
+                        "neutral": 0.45,
+                        "negative": 0.49
+                    },
+                    "offset": 1298,
+                    "length": 172,
+                    "text": "The former Everton starlet has barely put a foot wrong for the national team and he has a major role to play in the absence of his usual partner Harry Maguire this summer. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.51,
+                        "neutral": 0.44,
+                        "negative": 0.05
+                    },
+                    "offset": 1470,
+                    "length": 254,
+                    "text": "3. Ruben Dias Rúben Dia Dias endured an up-and-down season with Man City / Eurasia Sport Images/GettyImages 2023/24 certainly wasn't Ruben Dias' finest work, but he remains one of Europe's premier defenders and he'll lead Portugal's backline in Germany. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.96,
+                        "neutral": 0.03,
+                        "negative": 0
+                    },
+                    "offset": 1724,
+                    "length": 57,
+                    "text": "Dias leads by example and is an impressive communicator. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1724,
+                            "length": 4,
+                            "text": "Dias",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/9/assessments/0"
+                                }
+                            ]
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1767,
+                            "length": 12,
+                            "text": "communicator",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/9/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1756,
+                            "length": 10,
+                            "text": "impressive",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.68,
+                        "neutral": 0.3,
+                        "negative": 0.01
+                    },
+                    "offset": 1781,
+                    "length": 81,
+                    "text": "He's a proper field marshal whose profile is well-suited to tournament football. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1795,
+                            "length": 13,
+                            "text": "field marshal",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/10/assessments/0"
+                                },
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/10/assessments/1"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1788,
+                            "length": 6,
+                            "text": "proper",
+                            "isNegated": false
+                        },
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1826,
+                            "length": 11,
+                            "text": "well-suited",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.72,
+                        "neutral": 0.27,
+                        "negative": 0.02
+                    },
+                    "offset": 1862,
+                    "length": 75,
+                    "text": "Some of his best work in a City shirt has arrived in the Champions League. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1879,
+                            "length": 4,
+                            "text": "work",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/11/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 1874,
+                            "length": 4,
+                            "text": "best",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.13,
+                        "neutral": 0.83,
+                        "negative": 0.05
+                    },
+                    "offset": 1937,
+                    "length": 253,
+                    "text": "2. Antonio Rudiger International FriendlyGermany v Greece Rudiger will lead the hosts' line this summer / ANP/GettyImages Hosts Germany head into the tournament with ever-increasing expectations and Antonio Rudiger will certainly embrace such pressure. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.32,
+                        "neutral": 0.66,
+                        "negative": 0.02
+                    },
+                    "offset": 2190,
+                    "length": 194,
+                    "text": "The former Chelsea defender has seemingly taken his game to another level since joining Real Madrid and heads into Euro 2024 having helped the Spanish club to their 15th Champions League crown. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.43,
+                        "negative": 0.54
+                    },
+                    "offset": 2384,
+                    "length": 137,
+                    "text": "Rudiger may be rough and rugged, but there's no defender on the planet more adept at man-marking the opponent's striker out of the game. ",
+                    "targets": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.3,
+                                "negative": 0.7
+                            },
+                            "offset": 2384,
+                            "length": 7,
+                            "text": "Rudiger",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/14/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "negative",
+                            "confidenceScores": {
+                                "positive": 0.3,
+                                "negative": 0.7
+                            },
+                            "offset": 2409,
+                            "length": 6,
+                            "text": "rugged",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.76,
+                        "neutral": 0.2,
+                        "negative": 0.04
+                    },
+                    "offset": 2521,
+                    "length": 54,
+                    "text": "He thrives in duels and relishes the physical battle. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.36,
+                        "neutral": 0.55,
+                        "negative": 0.09
+                    },
+                    "offset": 2575,
+                    "length": 184,
+                    "text": "1. Virgil van Dijk Virgil van Dijk Van Dijk is back to his best / Dean Mouhtaropoulos/GettyImages There were doubts not too long ago over Van Dijk's status as one of the world's best. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "negative",
+                    "confidenceScores": {
+                        "positive": 0.02,
+                        "neutral": 0.43,
+                        "negative": 0.55
+                    },
+                    "offset": 2759,
+                    "length": 177,
+                    "text": "The Dutchman undoubtedly endured a drop-off after recovering from a long-term knee injury, but it's fair to say he silenced a few with the campaign he put together last season. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.03,
+                        "neutral": 0.57,
+                        "negative": 0.4
+                    },
+                    "offset": 2936,
+                    "length": 170,
+                    "text": "Van Dijk differs drastically from the 'in-your-face' Rudiger, with the Liverpool star continuing to use more stand-offish techniques as a way of nullifying his opponent. ",
+                    "targets": [],
+                    "assessments": []
+                },
+                {
+                    "sentiment": "positive",
+                    "confidenceScores": {
+                        "positive": 0.55,
+                        "neutral": 0.44,
+                        "negative": 0.01
+                    },
+                    "offset": 3106,
+                    "length": 144,
+                    "text": "A physical specimen with a quick turn of pace and impeccable judgement, Van Dijk will lead a stout Netherlands backline in Germany this summer. ",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3167,
+                            "length": 9,
+                            "text": "judgement",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/19/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3156,
+                            "length": 10,
+                            "text": "impeccable",
+                            "isNegated": false
+                        }
+                    ]
+                },
+                {
+                    "sentiment": "neutral",
+                    "confidenceScores": {
+                        "positive": 0.34,
+                        "neutral": 0.64,
+                        "negative": 0.02
+                    },
+                    "offset": 3250,
+                    "length": 88,
+                    "text": "After 18 months in the wilderness, Van Dijk has regained his status as the world's best.",
+                    "targets": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3285,
+                            "length": 8,
+                            "text": "Van Dijk",
+                            "relations": [
+                                {
+                                    "relationType": "assessment",
+                                    "ref": "#/documents/0/sentences/20/assessments/0"
+                                }
+                            ]
+                        }
+                    ],
+                    "assessments": [
+                        {
+                            "sentiment": "positive",
+                            "confidenceScores": {
+                                "positive": 1,
+                                "negative": 0
+                            },
+                            "offset": 3333,
+                            "length": 4,
+                            "text": "best",
+                            "isNegated": false
+                        }
+                    ]
+                }
+            ],
+            "warnings": []
+        }
+    ],
+    "errors": [],
+    "modelVersion": "2022-11-01"
+}
